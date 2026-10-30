@@ -1,0 +1,6 @@
+public enum TournamentType {
+    WORLD_CUP,
+    CONTINENTAL_FINALS,
+    CONTINENTAL_QUALIFIERS,
+    REGIONAL_TOURNAMENT
+}
